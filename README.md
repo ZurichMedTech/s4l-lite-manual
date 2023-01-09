@@ -1,1 +1,1 @@
-# S4L-Lite tutorial
+# S4L-Lite Dashboard tutorial
