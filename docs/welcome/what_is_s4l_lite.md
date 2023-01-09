@@ -1,1 +1,1 @@
-## Why offer S4L Lite?
+## Why offer Sim4Life-Lite?

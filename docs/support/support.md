@@ -2,14 +2,14 @@
 
 ### Create an account
 
-Request your login online on the [“TI Planning” webpage](https://tip.itis.swiss/). 
+Request your login online on the [“S4L-Lite webpage](https://s4l-lite.io/). 
 
 ### Send us an email
 
-Please contact us at [tip@itis.swiss](mailto:tip@itis.swiss) in case you need support.
+Please contact us at [s4l-support@zmt.swiss](mailto:s4l-support@zmt.swiss) in case you need support.
 
 Feedback is warmly welcomed – we listen!
 
 Thank you!
 
-The IT’IS TIP Team
+The Sim4Life Team
