@@ -1,7 +1,7 @@
 <!-- _sidebar.md -->
 
 * [Welcome](README.md)
-  * [Why offer a TI Plannig Tool?](/docs/welcome/what_is_s4l_lite.md)
+  * [Why offer Sim4Life-Lite?](/docs/welcome/what_is_s4l_lite.md)
 * [Quick Start Guide](/docs/plan/start.md)
   * [Platform Overview](/docs/platform_introduction/platform.md)
     * [Landing Page](/docs/platform_introduction/overview.md)

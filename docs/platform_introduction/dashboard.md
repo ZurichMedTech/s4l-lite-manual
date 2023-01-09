@@ -12,10 +12,10 @@ The **Dashboard** hosts the two principal views: ```Projects``` and ```Tutorials
 
 In addition, buttons on the top right provide access to this user manual, switching between a dark and a light theme, and a menu (5.) with the following entries:
 - _**Preferences**_: Access to **Profile**, **_Security_**, **_API_**, **_UI_**, **_Confirmations_**, **_Tag_**, and **_Organization_** settings (see the [o<sup>2</sup>S<sup>2</sup>PARC User Manual](https://docs.osparc.io/#/) for detailed information)
-- _**Quick Start**_: A short **Quick Start** guide, which is also displayed the first time the TI Planning Tool is accessed.
-- _**License**_: Information about the TI Planning Tool license, as well as the licenses of the underlying technologies.
-- _**About**_: List of **Front-end** and **Back-end** technologies employed by the TI Planning Tool
-- _**Logout**_: Logging out from the **TI Planning Tool**
+- _**Quick Start**_: A short **Quick Start** guide, which is also displayed the first time the Sim4Life-Lite is accessed.
+- _**License**_: Information about the Sim4Life-Lite license, as well as the licenses of the underlying technologies.
+- _**About**_: List of **Front-end** and **Back-end** technologies employed by the Sim4Life-Lite
+- _**Logout**_: Logging out from the **Sim4Life-Lite**
 
 The user access more functionality such as **_Plan management_**, **_information_**, **_sharing_**, and **_Service overview and update_** (3.) through the three-dot menu (1.) icon (see the [o<sup>2</sup>S<sup>2</sup>PARC User Manual](https://docs.osparc.io/#/) for information on these functionalities as well as the locking states). 
 If Services within a Plan need updating, the small circular arrow sign will appear in the bottom right corner (2.) of the Plan
