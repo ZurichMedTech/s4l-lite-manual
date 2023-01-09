@@ -28,5 +28,3 @@ versions of each Service and where you can update them either individually or al
 
 
 It is always possible to return to the _**Dashboard**_ by clicking the ```Dashboard``` button on the top left, which automatically saves the state of the currently opened plan.
-
-For more information, see the [o<sup>2</sup>S<sup>2</sup>PARC User Manual](https://docs.osparc.io/#/).
