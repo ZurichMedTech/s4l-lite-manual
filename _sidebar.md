@@ -7,6 +7,7 @@
   * [Dashboard](/docs/platform_introduction/dashboard/dashboard.md)
     * [New Project](/docs/platform_introduction/dashboard/new_project.md)
     * [Tutorials](/docs/platform_introduction/dashboard/tutorials.md)
+    * [Sharing](/docs/platform_introduction/dashboard/share.md)
   * [Sim4Life-Lite](/docs/platform_introduction/s4l_lite.md)
 * [Licensing](/docs/support/license.md)
   * [Sim4Life](/docs/support/sim4life/copyright_Sim4Life.html)
