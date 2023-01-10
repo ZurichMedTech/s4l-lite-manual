@@ -3,12 +3,12 @@
 The **Dashboard** hosts the two principal views: ```Projects``` and ```Tutorials``` (1.).
 
 <p align="center">
-  <img width="90%" src="assets/quickguide/dashboard.png">
+  <img width="90%" src="assets/dashboard.png">
 </p>
 
 
-- Under ```Projects```, existing Plans (own Plans, or plans that have been shared by other users) can be accessed (3.) and managed (4.), and new Plans can be [created](docs/plan/create_new_plan.md). 
-- Under ```Tutorials```, the existing Tutorials can be managed and downloaded (see [Tutorials](/docs/platform_introduction/Tutorials.md)).
+- Under ```Projects```, existing projects (own projects, or projects that have been shared by other users) can be accessed (3.) and managed (4.), and new Plans can be [created](docs/platform_introduction/new_project.md). 
+- Under ```Tutorials```, the existing Tutorials can be managed and downloaded (see [Tutorials](/docs/platform_introduction/tutorials.md)).
 
 In addition, buttons on the top right provide access to this user manual, switching between a dark and a light theme, and a menu (5.) with the following entries:
 - _**Preferences**_: Access to **Profile**, **_Security_**, **_API_**, **_UI_**, **_Confirmations_**, **_Tag_**, and **_Organization_** settings (see the [o<sup>2</sup>S<sup>2</sup>PARC User Manual](https://docs.osparc.io/#/) for detailed information)
