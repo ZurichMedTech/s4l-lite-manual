@@ -9,6 +9,8 @@ The **Dashboard** hosts the two principal views: ```Projects``` and ```Tutorials
 - Under ```Projects```, existing projects (own projects, or projects that have been shared by other users) can be accessed (3.) and managed (4.), and new Plans can be [created](docs/platform_introduction/dashboard/new_project.md). 
 - Under ```Tutorials```, the existing Tutorials can be managed and downloaded (see [Tutorials](/docs/platform_introduction/dashboard/tutorials.md)).
 
+Use the Porject Search Filter (2.) to filter the projects or tutotials. This search bar supports filtering by string, name, keywords or tags (just click on the text field to drop down a list of available categories).
+
 In addition, buttons on the top right provide access to this user manual, switching between a dark and a light theme, and a menu (5.) with the following entries:
 - _**Preferences**_: Access to **Profile**, **_Security_**, **_Confirmations_**, **_Tag_**, and **_Organization_** settings
 - _**Organization**_: Direct access to **_Organization_** settings
@@ -16,6 +18,8 @@ In addition, buttons on the top right provide access to this user manual, switch
 - _**License**_: Information about the Sim4Life-Lite license, as well as the licenses of the underlying technologies
 - _**About**_: List of **Front-end** and **Back-end** technologies employed by the Sim4Life-Lite
 - _**Logout**_: Logging out from the **Sim4Life-Lite**
+
+#### Manage Study
 
 <p align="center">
   <img width="90%" src="assets/dashboard/project_card.png">
