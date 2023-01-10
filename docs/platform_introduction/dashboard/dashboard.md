@@ -3,7 +3,7 @@
 The **Dashboard** hosts the two principal views: ```Projects``` and ```Tutorials``` (1.).
 
 <p align="center">
-  <img width="90%" src="assets/dashboard.png">
+  <img width="90%" src="assets/dashboard/dashboard.png">
 </p>
 
 
