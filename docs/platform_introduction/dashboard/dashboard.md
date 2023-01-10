@@ -19,7 +19,7 @@ In addition, buttons on the top right provide access to this user manual, switch
 - _**About**_: List of **Front-end** and **Back-end** technologies employed by the Sim4Life-Lite
 - _**Logout**_: Logging out from the **Sim4Life-Lite**
 
-#### Manage Study
+#### Manage Project
 
 <p align="center">
   <img width="90%" src="assets/dashboard/project_card.png">
