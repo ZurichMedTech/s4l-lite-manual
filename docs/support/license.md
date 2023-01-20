@@ -1,7 +1,5 @@
 # Licensing
 
-[IT'IS TIP: Terms & Conditions](/docs/support/itis/itis_tc.md)
-
 Sim4Life:web *lite* is powered by the following software and libraries:
 
 - [Sim4Life](/docs/support/sim4life/copyright_Sim4Life.html)
