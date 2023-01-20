@@ -2,7 +2,7 @@
 
 ### Create an account
 
-Request your login online on the [“S4L-Lite webpage](https://s4l-lite.io/). 
+Request your login online on the [“Sim4Life lite webpage](https://s4l-lite.io/). 
 
 ### Send us an email
 
