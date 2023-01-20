@@ -1,6 +1,6 @@
 # Welcome
 
-Welcome to the *S4L-Lite* Dashboard Documentation. This user manual aims to provide detailed information and background about how to use the dashboard in S4L-Lite.
+Welcome to the Sim4Life:web *lite* Dashboard Documentation. This user manual aims to provide detailed information and background about how to use the dashboard in Sim4Life:web *lite*.
 
 <br>
 <p align="center">
