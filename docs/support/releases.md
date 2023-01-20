@@ -1,9 +1,9 @@
 # Release Notes
 
-### S4L:web *lite* V1.0
+### Sim4Life:web *lite* V1.0
 _Release Date: 31.01.2023_ 
 
-S4L:web *lite* V1.0 is the first public release.
+Sim4Life:web *lite* V1.0 is the first public release.
 
 _Features_
 
