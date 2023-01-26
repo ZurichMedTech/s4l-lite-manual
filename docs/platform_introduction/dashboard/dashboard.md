@@ -22,7 +22,7 @@ In addition, buttons on the top right provide access to this user manual, switch
 #### Manage Project
 
 <p align="center">
-  <img width="90%" src="assets/dashboard/project_card.png">
+  <img src="assets/dashboard/project_card.png">
 </p>
 
 The user can access more functionality such as **_Project data_**, **_Sharing_**, **_Duplicate_** and **_More options_** through the ellipsis (1.) menu button. If Sim4Life:web *lite* needs updating, a small circular arrow sign will appear in the bottom right corner (2.) of the Card on the **Dashboard**. Clicking this icon will bring you directly to the update menu where you see the current and newest available version where you can update. Regarding sharing functionality deserves [a separation section](/docs/platform_introduction/dashboard/sharing.md).
