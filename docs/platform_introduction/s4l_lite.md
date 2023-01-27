@@ -1,6 +1,6 @@
-## Sim4Life:web *lite*
+## **Sim4Life:web** *lite*
 
-In order to check the Sim4life:web *lite* documentation in more detail, please open a project and access it in the menu:
+To check the **Sim4Life:web** *lite* manual, please open a project and access the documentation in the menu:
 
 <br>
 <p align="center">

@@ -1,6 +1,6 @@
-## Platform Overview
+# Platform Overview
 
-The Sim4Life:web *lite* has the following principal views:
-* a [Landing Page](/docs/platform_introduction/overview.md), which currently serves primarily for user authentication.
-* a [Dashboard](/docs/platform_introduction/dashboard/dashboard.md) that provides an overview of a user's projects and permits to launch the creation of a new project.
-* a [Sim4Life-Lite](/docs/platform_introduction/s4l_lite.md), where you can run simulations, combining computable human phantoms with the most powerful physics solvers and the most advanced tissue models, for directly analyzing biological real-world phenomena.
+The **Sim4Life:web** *lite* has the following principal views:
+* [Landing Page](/docs/platform_introduction/overview.md), which currently serves primarily for user authentication.
+* [Dashboard](/docs/platform_introduction/dashboard/dashboard.md), that provides an overview of a user's projects, and pre-built read-only tutorial projects and permits the user to create a new project or open a tutorial project.
+* [**Sim4Life:web** *lite*](/docs/platform_introduction/s4l_lite.md), where the user performs all steps in complex multiphysics modeling, from defining the problem in a parametric 3D modeling environment, discretizing, simulating, and analyzing to visualizing the results.
