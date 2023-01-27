@@ -4,5 +4,5 @@ In order to check the Sim4life:web *lite* documentation in more detail, please o
 
 <br>
 <p align="center">
-  <img width="90%" src="assets/s4l-docs.gif">
+  <img src="assets/s4l-docs.gif">
 </p>
