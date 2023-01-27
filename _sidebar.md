@@ -1,14 +1,14 @@
 <!-- _sidebar.md -->
 
 * [Welcome](README.md)
-  * [Why offer Sim4Life-Lite?](/docs/welcome/what_is_s4l_lite.md)
+  * [What offers Sim4Life:web lite?](/docs/welcome/what_is_s4l_lite.md)
 * [Platform Overview](/docs/platform_introduction/platform.md)
   * [Landing Page](/docs/platform_introduction/landing_page.md)
   * [Dashboard](/docs/platform_introduction/dashboard/dashboard.md)
-    * [New Project](/docs/platform_introduction/dashboard/new_project.md)
+    * [Projects Management](/docs/platform_introduction/dashboard/new_project.md)
     * [Tutorials](/docs/platform_introduction/dashboard/tutorials.md)
-    * [Sharing](/docs/platform_introduction/dashboard/share.md)
-  * [Sim4Life-Lite](/docs/platform_introduction/s4l_lite.md)
+    * [Sharing and Publishing](/docs/platform_introduction/dashboard/share.md)
+  * [Sim4Life:web lite Documentation](/docs/platform_introduction/s4l_lite.md)
 * [Licensing](/docs/support/license.md)
   * [Sim4Life](/docs/support/sim4life/copyright_Sim4Life.html)
 * [Release Notes](/docs/support/releases.md)
