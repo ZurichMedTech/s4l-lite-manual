@@ -5,11 +5,7 @@ The power of the **Sim4Life** simulation platform, boosted by its revolutionary 
 
 **Sim4Life:web *lite*** is a powerful web-based simulation platform that allows you to model and analyze real-world phenomena and to design complex technical devices in a validated environment. With its intuitive interface and advanced tools, **Sim4Life:web *lite*** makes it easy to develop your simulation project, wherever you are.
 
-<br>
-<p align="center">
-  <img src="assets/s4lintro.gif">
-</p>
-
+<p align="center">  <img src="assets/s4lintro.gif"> </p>
 
 <!-- https://zmt.swiss/in-silico/ 
 It is the first computational life sciences platform integrating computable human phantoms with the most powerful physics solvers and the most advanced tissue models for directly analyzing biological real-world phenomena and complex technical devices in a 3D validated biological and anatomical environment.
@@ -28,9 +24,8 @@ At the core of Sim4Life are the computable, high-fidelity 3D Virtual Population 
 <!-- https://zmt.swiss/academic/s4l-academic/sim4life-light/ -->
 The *lite* flavor of **Sim4Life** has been created specifically for students to facilitate their understanding of computational modeling and simulations for various topics, ranging from wireless communication to medical applications. The access to **Sim4Life:web *lite*** is available free of charge to students enrolled at registered universities.
 
----
 > **_NOTE:_** Existing **Sim4Life *lite*** desktop users can easily create an account and start using Sim4Life:web *lite* immediately on the browser without any installation. The simulation files generated using the desktop version are fully compatible and can be used in the Sim4Life:web lite platform by simply copying or importing them.
----
+
 
 **Sim4Life:web *lite*** offers:
   - Sim4Life Framework (GUI, Modeling, Postprocessing)
