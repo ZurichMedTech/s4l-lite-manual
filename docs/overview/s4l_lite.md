@@ -1,6 +1,6 @@
 ## **Sim4Life:web *lite*** Manual
 
-To check the **Sim4Life:web *lite*** manual, please open a project and access the documentation in the menu as show below:
+To check the **Sim4Life:web *lite*** manual, please open a project and access the documentation via ```Help``` in the menu as show below:
 
 <br>
 <p align="center">

@@ -9,15 +9,18 @@ For a full demonstration of these functionalities, take a look at o²S²PARC web
 </p>
 
 ## Organization
-An organization is any group of **Sim4Life:web *lite*** users that are able to share _**Projects**_ with each other. To see which organizations you are a part of, go to your user preferences through your [Profile](dashboard.md) button on the top right corner of the user interface. Then choose the ```Organizations``` which will display all organizations you belong to and you may see the members of each organization by clicking on it. The member details will be then displayed in the lower half of the window under ```Members```. There are three different types of members in an organization:
-1. **Regular Member**
+An organization is any group of **Sim4Life:web *lite*** users that are able to share _**Projects**_ with each other. To see which organizations you are a part of, go to your user preferences through your [Profile](dashboard.md) button on the top right corner of the user interface. Then choose the ```Organizations``` which will display all organizations you belong to and you may see the members of each organization by clicking on it. The member details will be then displayed in the lower half of the window under ```Members```. There are four different types of members in an organization:
+1. **User**
+    * Can not see the members of other organizations
+    * Can not share content with the organization
+2. **Member**
     * Has access to shared content of the organization
     * Can share content with the organization
-2. **Manager**
+3. **Manager**
     * Has Member privileges
     * Can add or remove Members
     * Can promote Members to Managers
-3. **Administrator**
+4. **Administrator**
     * Has Manager privileges
     * Can edit the organization’s description
     * Can delete the organization
@@ -40,6 +43,20 @@ To share a Project:
 4. In the Sharing tab, click on the ```Organizations and Members``` dropdown to see the list of users you may share with. Choose one or more people/organizations to share your Project with, and then click the ```Add``` button.
 5. The Project will then appear in the ```PROJECTS``` tab of the user(s) you have shared with. 
 
+There are three types of roles for projects :
+1. **Viewer**
+    * Can open the project
+    * Can not modify the project
+2. **Colloborator**
+    * Can open the project
+    * Can modify the project
+    * Can share the project with other members
+    * Can not delete the project
+3. **Owner**
+    * Can open the project
+    * Can modify the project
+    * Can share the project with other members
+    * Can delete the project
 
 ## Publishing a Project as a Tutorial
 Publishing a Project as a Tutorial will save the state of the Project at the current moment and it will appear as a Tutorial Project in the ```TUTORIALS``` tab of the Dashboard. Any changes made to the original Project after publishing as a Tutorial will not change the Tutorial. Clicking on the Tutorial Project in the ```TUTORIALS``` tab will create a copy of the contents of the Tutorial accessible in your ```PROJECTS``` tab. Any changes you make to this new Project will not affect the original Tutorial. 
@@ -58,4 +75,16 @@ To publish your Project as a Tutorial:
 6. Click the ```Publish``` button on the bottom right hand corner.
 7. The Tutorial will now appear as a Tutorial Project in your ```TUTORIALS``` tab. If you have chosen to share the Tutorial with members of an organization, others in that same organization will also see the Project in their respective ```TUTORIALS``` tabs. 
 
-
+There are three types of roles for projects :
+1. **Viewer**
+    * Can create a copy of the tutorial by clicking
+2. **Colloborator**
+    * Can create a copy of the tutorial by clicking
+    * Can edit the tutorial
+    * Can share the tutorial with other members
+    * Can not delete the tutorial
+3. **Owner**
+    * Can create a copy of the tutorial by clicking
+    * Can edit the tutorial
+    * Can share the tutorial with other members
+    * Can delete the tutorial

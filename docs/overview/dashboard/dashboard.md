@@ -42,5 +42,9 @@
     * ```More Options…```: Opens a window where the user can view additional options for a study including its description, sharing settings, **Sim4Life:web *lite*** version used, etc. The same window also permits for updating the specific project to the latest **Sim4Life:web *lite*** version.
     * ```Delete```: Completely deletes the project and related data.
 
+(6) Starting a New Project
+
+  * To start a session of **Sim4Life:web *lite***, you can click the ```+ Start Sim4Life lite``` button to create a new project. This will start the user interface of **Sim4Life:web *lite***.
+
 
 

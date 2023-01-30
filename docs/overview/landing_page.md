@@ -11,4 +11,4 @@ The user can log in **Sim4Life:web *lite*** platform via this landing page. Two-
 
 Registration is currently available only via an invitation and clicking ```Create Account``` button will show the user the webpage link (https://zmt.swiss/support/support/s4l-light-download/) to request access to **Sim4Life:web *lite***.
 
-If the user cannot remember the password of an existing account, it can be reset by clicking the ```Forgot Password``` and following the instructions there.
+If the user cannot remember the password of an existing account, it can be reset by clicking the ```Forgot Password?``` and following the instructions there.

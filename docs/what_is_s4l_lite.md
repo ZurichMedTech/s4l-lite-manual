@@ -1,7 +1,9 @@
-# **Sim4Life:web *lite***
+# Sim4Life:web *lite*
 
 <!-- https://zmt.swiss/sim4life/ -->
-The power of the **Sim4Life** simulation platform, boosted by its revolutionary web interface!
+### *The power of the **Sim4Life** simulation platform, boosted by its revolutionary web interface!*
+
+<br>
 
 **Sim4Life:web *lite*** is a powerful web-based simulation platform that allows you to model and analyze real-world phenomena and to design complex technical devices in a validated environment. With its intuitive interface and advanced tools, **Sim4Life:web *lite*** makes it easy to develop your simulation project, wherever you are.
 
@@ -28,7 +30,7 @@ The *lite* flavor of **Sim4Life** has been created specifically for students to 
 
 
 **Sim4Life:web *lite*** offers:
-  - Sim4Life Framework (GUI, Modeling, Postprocessing)
+  - Framework (GUI, Modeling, Postprocessing)
   - 3D modeling environment and CAD translators
   - Postprocessing and visualization of the simulation results 
   - No restrictions on the number of modeling objects
@@ -39,7 +41,7 @@ The *lite* flavor of **Sim4Life** has been created specifically for students to 
     * P-Thermal: Thermodynamic Solver based on Pennes Bioheat equations
     * P-Acoustics: Acoustics Solver
     * T-Neuro: Neuronal Tissue Models, allowing neurostimulation investigations
-  - Computational anatomical model Yoon-sun, the first Korean phantom of the IT'IS Virtual Population
+  - Computational anatomical model Yoon-sun, the first Korean human model of the IT'IS Virtual Population
   - Material database
   - Python and Jupyter Notebook scripting
   - Not available in this *lite* version: 3rd-party Tools, High performance, Additional ViP models, Functionalized ViP models, Unstructured P-EM-LF
