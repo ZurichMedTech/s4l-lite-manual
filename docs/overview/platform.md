@@ -1,4 +1,4 @@
-# Platform Overview
+# Overview
 
 The **Sim4Life:web *lite*** has the following principal views:
 * [Landing Page](/docs/overview/landing_page.md), which currently serves primarily for user authentication.
