@@ -14,4 +14,4 @@ Visit https://forum.zmt.swiss to exchange ideas or tips with other Sim4Life:web 
 
 Thank you!
 
-**Sim4Life:web** *lite*     
+**Sim4Life:web *lite*** Team  

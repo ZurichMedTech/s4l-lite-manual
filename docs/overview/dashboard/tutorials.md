@@ -1,6 +1,6 @@
 ## Tutorials
 
-A set of several tuorials will help you to get familiar with how to use Sim4Life:web *lite*.
+A set of several tuorials will help you to get familiar with how to use **Sim4Life:web *lite***.
 
 <p align="center">
   <img width="90%" src="assets/dashboard/tutorials.png">

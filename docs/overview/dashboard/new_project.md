@@ -3,13 +3,13 @@
 To generate a new simulation project, click ``` + Start Sim4Life lite ``` icon on the ```Dashboard```. 
 
 <p align="center">
-  <img src="assets/dashboard/new_project.png">
+  <img width="90%" src="assets/dashboard/new_project.png">
 </p>
 
 ## Managing Projects
 
 <p align="center">
-  <img src="assets/dashboard/project_card.png">
+  <img width="90%" src="assets/dashboard/project_card.png">
 </p>
 
 The **Sim4Life:web *lite*** version is recorded in each project card once it is generated. If a newer version of **Sim4Life:web *lite*** is released, a small circular arrow icon will appear at the bottom right corner of the card. The user can click on this icon to open a window showing the version numbers and allowing to update the project with the latest released version. 

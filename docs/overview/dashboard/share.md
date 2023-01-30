@@ -38,7 +38,7 @@ To share a Project:
 2. Choose the ```More options``` option. A window should appear.
 3. In the popup windo, there is a panel menu to the left. Click on the ```Sharing``` button (second button from the top) to switch to the Sharing tab.
 4. In the Sharing tab, click on the ```Organizations and Members``` dropdown to see the list of users you may share with. Choose one or more people/organizations to share your Project with, and then click the ```Add``` button.
-5. The Project will then appear in the ```Projects``` tab of the user(s) you have shared with. 
+5. The Project will then appear in the ```PROJECTS``` tab of the user(s) you have shared with. 
 
 
 ## Publishing a Project as a Tutorial
