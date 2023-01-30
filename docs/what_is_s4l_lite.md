@@ -5,6 +5,12 @@ The power of the **Sim4Life** simulation platform, boosted by its revolutionary 
 
 **Sim4Life:web *lite*** is a powerful web-based simulation platform that allows you to model and analyze real-world phenomena and to design complex technical devices in a validated environment. With its intuitive interface and advanced tools, **Sim4Life:web *lite*** makes it easy to develop your simulation project, wherever you are.
 
+<br>
+<p align="center">
+  <img src="assets/s4lintro.gif">
+</p>
+
+
 <!-- https://zmt.swiss/in-silico/ 
 It is the first computational life sciences platform integrating computable human phantoms with the most powerful physics solvers and the most advanced tissue models for directly analyzing biological real-world phenomena and complex technical devices in a 3D validated biological and anatomical environment.
 
