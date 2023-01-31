@@ -1,6 +1,6 @@
 ## Dashboard
 
-**Dashboard** is the place where ```Projects``` and ```Tutorials``` can be accessed and organized.
+The **Dashboard** is the place where ```Projects``` and ```Tutorials``` can be accessed and organized.
 
 
 <p align="center">
@@ -19,27 +19,27 @@
   * A menu with the following entities:
     * ```Preferences```: Access to Profile, Security, Confirmation, Tag, and Organization settings.
     * ```Organization```: Direct access to Organization settings.
-    * ```Quick Start```: A short Quick Start guide. It is also displayed when the **Sim4Life:web *lite*** is accessed the first time.
+    * ```Quick Start```: A short Quick Start guide. It is also displayed when the **Sim4Life:web *lite*** is accessed for the first time.
     * ```License```: Information about the **Sim4Life:web *lite*** license as well as the licenses of the underlying technologies.
     * ```About```: List of Front-end and Back-end technologies employed by the **Sim4Life:web *lite***.
     * ```Logout```: To log out from the **Sim4Life:web *lite***.
 
 (3) Study Filter and Search
 
- * The user can filter and search the projects and tutorials by Tags. You can also do a search by name and keywords.
+ * The user can filter and search the projects and tutorials by Tags. You can also search by name and keywords.
 
 (4) Project Card
 
- * Each card listed here represents a simulation project. It can be created by you, or shared with you by other users. The card contains descriptive information about the project. Click the card to load the project in a **Sim4Life:web *lite***.
+ * Each card listed here represents a simulation project. It can be created by you or shared with you by other users. The card contains descriptive information about the project. Click the card to load the project in a **Sim4Life:web *lite***.
 
 (5) Card Options
 
- * When clicked, the user is provided with additional information about the project and with the functionality to edit the description and to share the project with other users.
+ * When clicked, the user is provided with additional information about the project and with the functionality to edit the description and share the project with other users.
     * ```Rename```: Changes the name of the project.
     * ```Project data…```: Allows the user to download and store simulation projects including results locally. The simulation file and results are stored in the workspace.zip file.
     * ```Share…```: Opens a window where the user can share the simulation project.
     * ```Duplicate```: Creates a copy of the simulation project.
-    * ```More Options…```: Opens a window where the user can view additional options for a study including its description, sharing settings, **Sim4Life:web *lite*** version used, etc. The same window also permits for updating the specific project to the latest **Sim4Life:web *lite*** version.
+    * ```More Options…```: Opens a window where the user can view additional options for a study including its description, sharing settings, **Sim4Life:web *lite*** version used, etc. The same window also permits updating the specific project to the latest **Sim4Life:web *lite*** version.
     * ```Delete```: Completely deletes the project and related data.
 
 (6) Starting a New Project

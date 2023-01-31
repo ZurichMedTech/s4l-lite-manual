@@ -7,7 +7,7 @@
 
 ---
 
-**Sim4Life:web *lite*** V1.0 is the first public release of the powerful web-based simulation platform that allows you to model and analyze real-world phenomena and to design complex technical devices in a validated environment. **Sim4Life:web *lite*** V1.0 is a student edition,  a specially tailored solution for students to gain insight into  the world of computational modeling and simulation. The access to **Sim4Life:web *lite*** is available free of charge to students enrolled at registered universities and can be used to simulate various 
+**Sim4Life:web *lite*** V1.0 is the first public release of the powerful web-based simulation platform that allows you to model and analyze real-world phenomena and design complex technical devices in a validated environment. **Sim4Life:web *lite*** V1.0 is a student edition,  a specially tailored solution for students to gain insight into  the world of computational modeling and simulation. The access to **Sim4Life:web *lite*** is available free of charge to students enrolled at registered universities and can be used to simulate various 
 applications applying different physics solvers.
 
 This document summarizes the features and specifications of this release.

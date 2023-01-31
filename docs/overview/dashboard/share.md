@@ -9,7 +9,7 @@ For a full demonstration of these functionalities, take a look at o²S²PARC web
 </p>
 
 ## Organization
-An organization is any group of **Sim4Life:web *lite*** users that are able to share _**Projects**_ with each other. To see which organizations you are a part of, go to your user preferences through your [Profile](dashboard.md) button on the top right corner of the user interface. Then choose the ```Organizations``` which will display all organizations you belong to and you may see the members of each organization by clicking on it. The member details will be then displayed in the lower half of the window under ```Members```. There are four different types of members in an organization:
+An organization is any group of **Sim4Life:web *lite*** users that can share _**Projects**_. To see which organizations you are a part of, go to your user preferences through your [Profile](dashboard.md) button on the top right corner of the user interface. Then choose the ```Organizations``` which will display all organizations you belong to and you may see the members of each organization by clicking on it. The member details will be then displayed in the lower half of the window under ```Members```. There are four different types of members in an organization:
 1. **User**
     * Can not see the members of other organizations
     * Can not share content with the organization
@@ -39,7 +39,7 @@ Sharing a Project instance with other users allows collaboration on the same pip
 To share a Project:
 1. Access the Project's options from the Dashboard by clicking on the three dot button on the upper right hand corner of the Project's card. 
 2. Choose the ```More options``` option. A window should appear.
-3. In the popup windo, there is a panel menu to the left. Click on the ```Sharing``` button (second button from the top) to switch to the Sharing tab.
+3. In the popup window, there is a panel menu to the left. Click on the ```Sharing``` button (second button from the top) to switch to the Sharing tab.
 4. In the Sharing tab, click on the ```Organizations and Members``` dropdown to see the list of users you may share with. Choose one or more people/organizations to share your Project with, and then click the ```Add``` button.
 5. The Project will then appear in the ```PROJECTS``` tab of the user(s) you have shared with. 
 
@@ -47,7 +47,7 @@ There are three types of roles for projects :
 1. **Viewer**
     * Can open the project
     * Can not modify the project
-2. **Colloborator**
+2. **Collaborator**
     * Can open the project
     * Can modify the project
     * Can share the project with other members
