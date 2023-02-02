@@ -5,8 +5,8 @@ Visit our website: [www.zmt.swiss](http://www.zmt.swiss)**
 
 1.  [Zurich MedTech AG (ZMT)](#Zurich-MedTech-AG-ZMT)
 2.  [3Dconnexion Software Development Kit version 3.0.2 R7538](#_3Dconnexion-Software-Development-Kit-version-3.0.2-R7538)
-3.  [Angularjs version 1.6.1](#Angularjsversion1.6.1)
-4.  [Apache Thrift version 0.13.0](#ApacheThriftversion0.13.0)
+3.  [Angularjs version 1.6.1](#Angularjs-version-1.6.1)
+4.  [Apache Thrift version 0.13.0](#Apache-Thrift-version-0.13.0)
 5.  [Blosc - Blocked Shuffling and Compression Library version 1.10.3](#Blosc-BlockedShufflingandCompressionLibraryversion1.10.3)
 6.  [Boost library and extensions version 1.72.0](#Boostlibraryandextensionsversion1.72.0)
 7.  [Boost library and extensions version 1.72.0](#Boostlibraryandextensionsversion1.72.0)
@@ -323,7 +323,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   
 
 * * *
-<a id="ApacheThriftversion0.13.0"></a>
+<a id="Apache-Thrift-version-0.13.0"></a>
 Apache Thrift version 0.13.0
 ----------------------------
 
