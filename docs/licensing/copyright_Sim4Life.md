@@ -3,8 +3,8 @@ Zurich MedTech AG (ZMT).
 All rights reserved.  
 Visit our website: [www.zmt.swiss](http://www.zmt.swiss)**
 
-1.  [Zurich MedTech AG (ZMT)](#Zurich-MedTech-AG-(ZMT))
-2.  [3Dconnexion Software Development Kit version 3.0.2 R7538](#3DconnexionSoftwareDevelopmentKitversion3.0.2R7538)
+1.  [Zurich MedTech AG (ZMT)](#Zurich-MedTech-AG-ZMT)
+2.  [3Dconnexion Software Development Kit version 3.0.2 R7538](#_3Dconnexion-Software-Development-Kit-version-3.0.2-R7538)
 3.  [Angularjs version 1.6.1](#Angularjsversion1.6.1)
 4.  [Apache Thrift version 0.13.0](#ApacheThriftversion0.13.0)
 5.  [Blosc - Blocked Shuffling and Compression Library version 1.10.3](#Blosc-BlockedShufflingandCompressionLibraryversion1.10.3)
