@@ -3,13 +3,13 @@ Zurich MedTech AG (ZMT).
 All rights reserved.  
 Visit our website: [www.zmt.swiss](http://www.zmt.swiss)**
 
-1.  [Zurich MedTech AG (ZMT)](#Zurich-MedTech-AG-ZMT)
-2.  [3Dconnexion Software Development Kit version 3.0.2 R7538](#_3Dconnexion-Software-Development-Kit-version-3.0.2-R7538)
-3.  [Angularjs version 1.6.1](#Angularjs-version-1.6.1)
-4.  [Apache Thrift version 0.13.0](#Apache-Thrift-version-0.13.0)
-5.  [Blosc - Blocked Shuffling and Compression Library version 1.10.3](#Blosc-BlockedShufflingandCompressionLibraryversion1.10.3)
-6.  [Boost library and extensions version 1.72.0](#Boostlibraryandextensionsversion1.72.0)
-7.  [Boost library and extensions version 1.72.0](#Boostlibraryandextensionsversion1.72.0)
+1.  [Zurich MedTech AG (ZMT)](#zurich-medtech-ag-zmt)
+2.  [3Dconnexion Software Development Kit version 3.0.2 R7538](#_3dconnexion-software-development-kit-version-302-r7538)
+3.  [Angularjs version 1.6.1](#angularjs-version-161)
+4.  [Apache Thrift version 0.13.0](#apache-thrift-version-0130)
+5.  [Blosc - Blocked Shuffling and Compression Library version 1.10.3](#blosc-blocked-shuffling-and-compression-library-version-1103)
+6.  [Boost library and extensions version 1.72.0](#boost-library-and-extensions-version-1720)
+7.  [Boost library and extensions version 1.72.0](#boost-library-and-extensions-version-1720)
 8.  [Carve CSG Library version 2.1.0](#CarveCSGLibraryversion2.1.0)
 9.  [CGAL version 4.9](#CGALversion4.9)
 10.  [Chromium Embedded Framework (CEF) version 3.2883.1553](#ChromiumEmbeddedFramework(CEF)version3.2883.1553)
@@ -77,7 +77,7 @@ Visit our website: [www.zmt.swiss](http://www.zmt.swiss)**
   
 
 * * *
-<a id="Zurich-MedTech-AG-ZMT"></a>
+
 Zurich MedTech AG (ZMT)
 -----------------------
 
@@ -260,7 +260,7 @@ Version from 24-08-2022
   
 
 * * *
-<a id="_3Dconnexion-Software-Development-Kit-version-3.0.2-R7538"></a>
+
 3Dconnexion Software Development Kit version 3.0.2 R7538
 --------------------------------------------------------
 
@@ -301,7 +301,7 @@ IN NO EVENT SHALL 3DCONNEXION OR ANY OF ITS AFFILIATED COMPANIES BE LIABLE FOR A
   
 
 * * *
-<a id="Angularjs-version-1.6.1"></a>
+
 Angularjs version 1.6.1
 -----------------------
 
@@ -323,7 +323,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   
 
 * * *
-<a id="Apache-Thrift-version-0.13.0"></a>
+
 Apache Thrift version 0.13.0
 ----------------------------
 
@@ -614,7 +614,7 @@ NO WARRANTY EXPRESSED OR IMPLIED. USE AT YOUR OWN RISK.
   
 
 * * *
-<a id="Blosc-BlockedShufflingandCompressionLibraryversion1.10.3"></a>
+
 Blosc - Blocked Shuffling and Compression Library version 1.10.3
 ----------------------------------------------------------------
 
