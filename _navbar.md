@@ -6,6 +6,8 @@
 
 * Powered By
 
+  * [Sim4Life:web *lite*](https://zmt.swiss/academic/s4l-academic/)
+  * [oSPARC](https://github.com/ITISFoundation/osparc-simcore)
   * [Adminer](https://www.adminer.org/)
   * [Celery](https://docs.celeryproject.org/en/stable/)  
   * [Dask](https://dask.org/)
