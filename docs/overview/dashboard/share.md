@@ -9,7 +9,7 @@ For a full demonstration of these functionalities, take a look at o²S²PARC web
 </p>
 
 ## Organization
-An organization is any group of **Sim4Life:web *lite*** users that can share _**Projects**_. To see which organizations you are a part of, go to your user preferences through your [Profile](dashboard.md) button on the top right corner of the user interface. Then choose the ```Organizations``` which will display all organizations you belong to and you may see the members of each organization by clicking on it. The member details will be then displayed in the lower half of the window under ```Members```. There are four different types of members in an organization:
+An organization is any group of **S4L lite** users that can share _**Projects**_. To see which organizations you are a part of, go to your user preferences through your [Profile](dashboard.md) button on the top right corner of the user interface. Then choose the ```Organizations``` which will display all organizations you belong to and you may see the members of each organization by clicking on it. The member details will be then displayed in the lower half of the window under ```Members```. There are four different types of members in an organization:
 1. **User**
     * Can not see the members of other organizations
     * Can not share content with the organization
@@ -25,7 +25,7 @@ An organization is any group of **Sim4Life:web *lite*** users that can share _**
     * Can edit the organization’s description
     * Can delete the organization
 
-To create a new organization, click the ```+ New Organization``` button and add members by entering each new member's email address and then clicking ```Invite```. Note that you may only add members that are already registered **Sim4Life:web *lite*** users. If a user is successfully added, you will see a confirmation message and if there was an error, e.g., the email address is not registered, you will see an error message pop up. You may then change each member's privileges by clicking on that member's name. 
+To create a new organization, click the ```+ New Organization``` button and add members by entering each new member's email address and then clicking ```Invite```. Note that you may only add members that are already registered **S4L lite** users. If a user is successfully added, you will see a confirmation message and if there was an error, e.g., the email address is not registered, you will see an error message pop up. You may then change each member's privileges by clicking on that member's name. 
 
 <!-- ![organization](../../_media/organization.png) -->
 

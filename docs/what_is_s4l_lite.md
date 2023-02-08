@@ -1,11 +1,11 @@
-# Sim4Life:web *lite*
+# S4L lite
 
 <!-- https://zmt.swiss/sim4life/ -->
 ### *The power of the **Sim4Life** simulation platform, boosted by its revolutionary web interface!*
 
 <br>
 
-**Sim4Life:web *lite*** is a powerful web-based simulation platform that allows you to model and analyze real-world phenomena and to design complex technical devices in a validated environment. With its intuitive interface and advanced tools, **Sim4Life:web *lite*** makes it easy to develop your simulation project, wherever you are.
+**S4L lite** is a powerful web-based simulation platform that allows you to model and analyze real-world phenomena and to design complex technical devices in a validated environment. With its intuitive interface and advanced tools, **S4L lite** makes it easy to develop your simulation project, wherever you are.
 
 <p align="center">  <img src="assets/s4lintro.gif"> </p>
 
@@ -24,12 +24,12 @@ At the core of Sim4Life are the computable, high-fidelity 3D Virtual Population 
 
 
 <!-- https://zmt.swiss/academic/s4l-academic/sim4life-light/ -->
-The *lite* flavor of **Sim4Life** has been created specifically for students to facilitate their understanding of computational modeling and simulations for various topics, ranging from wireless communication to medical applications. The access to **Sim4Life:web *lite*** is available free of charge to students enrolled at registered universities.
+The *lite* flavor of **S4L** has been created specifically for students to facilitate their understanding of computational modeling and simulations for various topics, ranging from wireless communication to medical applications. The access to **S4L lite** is available free of charge to students enrolled at registered universities.
 
-> **_NOTE:_** Existing **Sim4Life *lite*** desktop users can easily create an account and start using Sim4Life:web *lite* immediately on the browser without any installation. The simulation files generated using the desktop version are fully compatible and can be used in the Sim4Life:web lite platform by simply copying or importing them.
+> **_NOTE:_** Existing **Sim4Life *lite*** desktop users can easily create an account and start using S4L lite immediately on the browser without any installation. The simulation files generated using the desktop version are fully compatible and can be used in the S4L lite platform by simply copying or importing them.
 
 
-**Sim4Life:web *lite*** offers:
+**S4L lite** offers:
   - Framework (GUI, Modeling, Postprocessing)
   - 3D modeling environment and CAD translators
   - Postprocessing and visualization of the simulation results 
@@ -47,7 +47,7 @@ The *lite* flavor of **Sim4Life** has been created specifically for students to 
   - Not available in this *lite* version: 3rd-party Tools, High performance, Additional ViP models, Functionalized ViP models, Unstructured P-EM-LF
 
 <!-- https://zmt.swiss/academic/s4l-academic/sim4life-light/ -->
-**Sim4Life:web *lite*** may not be used for any commercial activities, such as:
+**S4L lite** may not be used for any commercial activities, such as:
   - Commercial production design, design validation, or design assessment work
   - Commercial manufacturing engineering work
   - Commercial research

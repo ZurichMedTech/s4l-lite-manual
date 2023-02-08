@@ -1,6 +1,6 @@
 # Licensing
 
-**Sim4Life:web *lite*** is powered by the following software and libraries:
+**S4L lite** is powered by the following software and libraries:
 
 - [Sim4Life](/docs/licensing/copyright_Sim4Life.md)
 - [o<sup>2</sup>S<sup>2</sup>PARC](https://github.com/ITISFoundation/osparc-simcore)
