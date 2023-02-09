@@ -1,4 +1,4 @@
-# Licensing
+# License Agreements
 
 **S4L lite** is powered by the following software and libraries:
 

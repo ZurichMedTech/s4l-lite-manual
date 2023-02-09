@@ -1,5 +1,5 @@
 **Copyright © 2012-2023  
-Zurich MedTech AG (ZMT).  
+ZMT Zurich MedTech AG.  
 All rights reserved.  
 Visit our website: [www.zmt.swiss](http://www.zmt.swiss)**
 
