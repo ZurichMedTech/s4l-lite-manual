@@ -9,7 +9,7 @@
         * [Tutorials](/docs/overview/dashboard/tutorials.md)
         * [Sharing and Publishing](/docs/overview/dashboard/share.md)
     * [S4L lite Manual](/docs/overview/s4l_lite.md)
-* [Licensing](/docs/licensing/license.md)
+* [License Agreements](/docs/licensing/license.md)
     * [Sim4Life](/docs/licensing/copyright_Sim4Life.md)
 * [Release Notes](/docs/release/releases.md)
     * [Known Issues](/docs/release/knownbugs.md)
