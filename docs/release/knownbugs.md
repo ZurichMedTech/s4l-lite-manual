@@ -1,9 +1,9 @@
 ## Known Issues
 
 
-## **S4L lite** V1.0
+## **_S4L_<sup>_lite_</sup>** V1.0
 
-### Release Date: 07.02.2023
+### Release Date: 15.02.2023
 
 
 

@@ -1,6 +1,6 @@
 ## Tutorials
 
-A set of several tutorials will help you to get familiar with **S4L lite**.
+A set of several tutorials will help you to get familiar with **_S4L_<sup>_lite_</sup>**.
 
 <p align="center">
   <img width="90%" src="assets/dashboard/tutorials.png">
