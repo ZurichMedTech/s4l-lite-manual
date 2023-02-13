@@ -1,4 +1,4 @@
-# S4L lite
+# **_S4L_<sup>_lite_</sup>** 
 
 <!-- https://zmt.swiss/sim4life/ -->
 ### *The power of the **Sim4Life** simulation platform, boosted by its revolutionary web interface!*
