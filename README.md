@@ -1,12 +1,12 @@
 # Welcome
 
-Welcome to the **S4L lite** Dashboard Manual. This user manual aims to provide detailed information and background about how to use the dashboard in **S4L lite**.
+Welcome to the **S4L lite** Dashboard Manual. This user manual is intended to provide you with detailed information and background on about how to use the dashboard in **S4L lite**.
 
-If you don't have an account yet, please request your login via [**S4L lite** webpage](https://zmt.swiss/support/support/s4l-web-lite/). You can login https://s4l-lite.io using the valid email address and password combination. 
+If you don't have a user account yet, please request your login via the [**S4L lite** webpage](https://zmt.swiss/support/support/s4l-web-lite/). You can log in at https://s4l-lite.io with a valid email address and password combination. 
 
-Under ```TUTORIALS``` dashboard tab, you can find a set of pre-built read-only tutorial projects with results and scripts that illustrate how to use **S4L lite** to solve various simulation problems. 
+Under the ```TUTORIALS``` dashboard tab, you will find a set of pre-built read-only tutorial projects with results and scripts that illustrate how **S4L lite** can be used to solve various simulation problems. 
 
-For more specific technical information, please refer to **S4L lite** manual.
+For more specific technical information, please refer to the **S4L lite** manual.
 
 <br>
 <p align="center">
