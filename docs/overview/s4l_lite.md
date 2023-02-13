@@ -1,6 +1,6 @@
-## **S4L <sup>_lite_</sup>** Manual
+## **_S4L_<sup>_lite_</sup>** Manual
 
-To check the **S4L <sup>_lite_</sup>** manual, please open a project and access the documentation via ```Help``` in the menu as shown below:
+To check the **_S4L_<sup>_lite_</sup>** manual, please open a project and access the documentation via ```Help``` in the menu as shown below:
 
 <br>
 <p align="center">

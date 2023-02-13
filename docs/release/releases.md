@@ -1,6 +1,6 @@
 # Release Notes
 
-## **_S4L_<sup>_lite_</sup>** V1.0
+## _**S4L<sup>lite</sup>**_ V1.0
 
 ### Release Date: 15.02.2023
 
