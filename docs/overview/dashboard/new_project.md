@@ -1,6 +1,6 @@
 ## Generating a New Project
 
-To generate a new simulation project, click ``` + Start S4L lite ``` icon on the ```Dashboard```. This will start the user interface of **_S4L_<sup>_lite_</sup>**.
+To generate a new simulation project, click ``` + Start _S4L_<sup>_lite_ ``` icon on the ```Dashboard```. This will start the user interface of **_S4L_<sup>_lite_</sup>**.
 
 <p align="center">
   <img width="90%" src="assets/dashboard/new_project.png">
