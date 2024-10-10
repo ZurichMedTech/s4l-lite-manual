@@ -27,7 +27,7 @@ Pre-release ahead of the main Sim4Life V8.2 Desktop and Web release
 ### **Performance and usability enhancements**
 - Speed improvements in tree navigation for projects with many entities.
 - Faster application startup using compressed project files.
-- Completely reva**mped the video streaming backend for increased stability.
+- Completely revamped the video streaming backend for increased stability.
 
 ### **New tools**
 - Material calculator.
