@@ -1,6 +1,6 @@
 # Welcome
 
-Welcome to the **Sim4Life.lite* Dashboard Manual. This user manual is intended to provide you with detailed information and background on about how to use the dashboard in **_S4L_<sup>_lite_</sup>**.
+Welcome to the **Sim4Life.lite** Dashboard Manual. This user manual is intended to provide you with detailed information and background on about how to use the dashboard in **_S4L_<sup>_lite_</sup>**.
 
 If you don't have a user account yet, please request your login via the [**Sim4Life.lite** webpage](https://zmt.swiss/support/support/s4l-web-lite/). You can log in at https://s4l-lite.io with a valid email address and password combination. 
 
