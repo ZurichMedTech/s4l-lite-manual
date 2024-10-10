@@ -15,13 +15,20 @@ The **Dashboard** is the place where ```Projects``` and ```Tutorials``` can be a
 
 (2) Dashboard Buttons
 
-  * Three buttons (from left to right): to open Dashboard Manual; to open the user forum (https://forum.zmt.swiss) and to contact the **_S4L_<sup>_lite_</sup>** support team via email (s4l-support@zmt.swiss); to change the color scheme between light and dark themes.
+  * A notification bell that shows a message when new projects are shared with a user.
+  * A help button that includes:
+    * ```Quick Start```: A short Quick Start guide.
+    * ```Guided Tours```: A short Quick Start guide.
+    * ```Dashboard Manual```
+    * ```User forum``` (https://forum.zmt.swiss)
+    * A shortcut to contact the **_S4L_<sup>_lite_</sup>** support team via email (s4l-support@zmt.swiss);
   * A menu with the following entities:
+    * ```Account Settings```
     * ```Preferences```: Access to Profile, Security, Confirmation, Tag, and Organization settings.
     * ```Organization```: Direct access to Organization settings.
-    * ```Quick Start```: A short Quick Start guide. It is also displayed when the **_S4L_<sup>_lite_</sup>** is accessed for the first time.
-    * ```License```: Information about the **_S4L_<sup>_lite_</sup>** license as well as the licenses of the underlying technologies.
+    * An option to change between the dark and light themes.
     * ```About```: List of Front-end and Back-end technologies employed by the **_S4L_<sup>_lite_</sup>**.
+    * ```License```: Information about the **_S4L_<sup>_lite_</sup>** license as well as the licenses of the underlying technologies.
     * ```Logout```: To log out from the **_S4L_<sup>_lite_</sup>**.
 
 (3) Study Filter and Search
@@ -36,10 +43,11 @@ The **Dashboard** is the place where ```Projects``` and ```Tutorials``` can be a
 
  * When clicked, the user is provided with additional information about the project and with the functionality to edit the description and share the project with other users.
     * ```Rename```: Changes the name of the project.
-    * ```Project data…```: Allows the user to download and store simulation projects including results locally. The simulation file and results are stored in the workspace.zip file.
-    * ```Share…```: Opens a window where the user can share the simulation project.
+    * ```Thumbnail```: Changes the thumbnail to help identify different projects at a glance.
     * ```Duplicate```: Creates a copy of the simulation project.
-    * ```More Options…```: Opens a window where the user can view additional options for a study including its description, sharing settings, **_S4L_<sup>_lite_</sup>** version used, etc. The same window also permits updating the specific project to the latest **_S4L_<sup>_lite_</sup>** version.
+    * ```Share…```: Opens a window where the user can share the simulation project.
+    * ```Tags```: Assigns tags to help organize projects.
+    * ```Project data…```: Allows the user to download and store simulation projects including results locally. The simulation file and results are stored in the workspace.zip file.
     * ```Delete```: Completely deletes the project and related data.
 
 (6) Starting a New Project
