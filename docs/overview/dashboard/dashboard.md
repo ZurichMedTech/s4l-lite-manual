@@ -11,7 +11,7 @@ The **Dashboard** is the place where ```Projects``` and ```Tutorials``` can be a
 (1) Dashboard Tabs
 
   * ```PROJECTS```: Existing projects (own projects, or projects that have been shared by other users) can be accessed and managed, and new projects can be created. Each project is represented by a card.
-  * ```TUTORIALS```: A set of pre-built read-only tutorial projects with results is available to all **_S4L_<sup>_lite_</sup>** users. When a tutorial is selected, a copy is automatically created and added to the user’s ```Projects``` tab. This new copy is editable.
+  * ```TUTORIALS```: A set of pre-built read-only tutorial projects with results is available to all **Sim4Life.lite** users. When a tutorial is selected, a copy is automatically created and added to the user’s ```Projects``` tab. This new copy is editable.
 
 (2) Dashboard Buttons
 
@@ -21,15 +21,15 @@ The **Dashboard** is the place where ```Projects``` and ```Tutorials``` can be a
     * ```Guided Tours```: A short Quick Start guide.
     * ```Dashboard Manual```
     * ```User forum``` (https://forum.zmt.swiss)
-    * A shortcut to contact the **_S4L_<sup>_lite_</sup>** support team via email (s4l-support@zmt.swiss);
+    * A shortcut to contact the **Sim4Life.lite** support team via email (s4l-support@zmt.swiss);
   * A menu with the following entities:
     * ```Account Settings```
     * ```Preferences```: Access to Profile, Security, Confirmation, Tag, and Organization settings.
     * ```Organization```: Direct access to Organization settings.
     * An option to change between the dark and light themes.
-    * ```About```: List of Front-end and Back-end technologies employed by the **_S4L_<sup>_lite_</sup>**.
-    * ```License```: Information about the **_S4L_<sup>_lite_</sup>** license as well as the licenses of the underlying technologies.
-    * ```Logout```: To log out from the **_S4L_<sup>_lite_</sup>**.
+    * ```About```: List of Front-end and Back-end technologies employed by the Sim4Life.lite.
+    * ```License```: Information about the **Sim4Life.lite** license as well as the licenses of the underlying technologies.
+    * ```Logout```: To log out from the **Sim4Life.lite**.
 
 (3) Study Filter and Search
 
@@ -37,7 +37,7 @@ The **Dashboard** is the place where ```Projects``` and ```Tutorials``` can be a
 
 (4) Project Card
 
- * Each card listed here represents a simulation project. It can be created by you or shared with you by other users. The card contains descriptive information about the project. Click the card to load the project in a **_S4L_<sup>_lite_</sup>**.
+ * Each card listed here represents a simulation project. It can be created by you or shared with you by other users. The card contains descriptive information about the project. Click the card to load the project in a Sim4Life.lite.
 
 (5) Card Options
 
@@ -52,7 +52,7 @@ The **Dashboard** is the place where ```Projects``` and ```Tutorials``` can be a
 
 (6) Starting a New Project
 
-  * To start a session of **_S4L_<sup>_lite_</sup>**, you can click the ```+ Start S4L lite``` button to create a new project. This will start the user interface of **_S4L_<sup>_lite_</sup>**.
+  * To start a session of **Sim4Life.lite**, you can click the ```+ Start S4L lite``` button to create a new project. This will start the user interface of Sim4Life.lite.
 
 
 

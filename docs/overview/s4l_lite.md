@@ -1,6 +1,6 @@
-## **_S4L_<sup>_lite_</sup>** Manual
+## **Sim4Life.lite** Manual
 
-To check the **_S4L_<sup>_lite_</sup>** manual, please open a project and access the documentation via ```Help``` in the menu as shown below:
+To check the **Sim4Life.lite** manual, please open a project and access the documentation via ```Help``` in the menu as shown below:
 
 <br>
 <p align="center">

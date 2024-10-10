@@ -1,15 +1,15 @@
-# **_S4L_<sup>_lite_</sup>** 
+# **Sim4Life.lite** 
 
 <!-- https://zmt.swiss/sim4life/ -->
 ### *The power of the **Sim4Life** simulation platform, boosted by its revolutionary web interface!*
 
 <br>
 
-**_S4L_<sup>_lite_</sup>** is a powerful multi-physics simulation platform that allows students to easily access, run and share simulations in the cloud from any web browser. It offers the same features and performance as the desktop version but is more flexible, maintenance-free and easier to use. It does not require powerful in-house computational resources as it relies on AWS’s virtually unlimited cloud-computing infrastructure thus 
+**Sim4Life.lite** is a powerful multi-physics simulation platform that allows students to easily access, run and share simulations in the cloud from any web browser. It offers the same features and performance as the desktop version but is more flexible, maintenance-free and easier to use. It does not require powerful in-house computational resources as it relies on AWS’s virtually unlimited cloud-computing infrastructure thus 
 
-The access to **_S4L_<sup>_lite_</sup>** is available free of charge to students enrolled at registered universities.
+The access to **Sim4Life.lite** is available free of charge to students enrolled at registered universities.
 
-> **_NOTE:_** Existing **Sim4Life light** desktop users can easily create an account and start using **_S4L_<sup>_lite_</sup>** immediately on the browser without any installation. The simulation files generated using the desktop version are fully compatible and can be smoothly migrated in the **_S4L_<sup>_lite_</sup>** platform by simply uploading them to the online platform.
+> **_NOTE:_** Existing **Sim4Life light** desktop users can easily create an account and start using **Sim4Life.lite** immediately on the browser without any installation. The simulation files generated using the desktop version are fully compatible and can be smoothly migrated in the **Sim4Life.lite** platform by simply uploading them to the online platform.
 
 
 
@@ -33,7 +33,7 @@ At the core of Sim4Life are the computable, high-fidelity 3D Virtual Population 
 
 
 
-**_S4L_<sup>_lite_</sup>** offers:
+**Sim4Life.lite** offers:
   - Framework (GUI, Modeling, Postprocessing)
   - 3D modeling environment and CAD translators
   - Postprocessing and visualization of the simulation results 
@@ -51,7 +51,7 @@ At the core of Sim4Life are the computable, high-fidelity 3D Virtual Population 
   - Not available in this *lite* version: 3rd-party Tools, High performance, Additional ViP models, Functionalized ViP models, Unstructured P-EM-LF
 
 <!-- https://zmt.swiss/academic/s4l-academic/sim4life-light/ -->
-**_S4L_<sup>_lite_</sup>** may not be used for any commercial activities, such as:
+**Sim4Life.lite** may not be used for any commercial activities, such as:
   - Commercial production design, design validation, or design assessment work
   - Commercial manufacturing engineering work
   - Commercial research

@@ -10,8 +10,8 @@ Visit https://www.zmt.swiss for a detailed list of available features, applicati
 
 ### Participate in our user forum
 
-Visit https://forum.zmt.swiss to exchange ideas or tips with other **_S4L_<sup>_lite_</sup>** users.
+Visit https://forum.zmt.swiss to exchange ideas or tips with other **Sim4Life.lite** users.
 
 Thank you!
 
-**_S4L_<sup>_lite_</sup>** Team  
+**Sim4Life.lite** Team  
