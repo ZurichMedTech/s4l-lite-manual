@@ -1,6 +1,6 @@
 ## Generating a New Project
 
-To generate a new simulation project, click <code> + Start <i>S4L<sup>lite</sup></i> </code> icon on the ```Dashboard```. This will start the user interface of **Sim4Life.lite**.
+To generate a new simulation project, click <code> + New </code> icon on the ```Dashboard```, and select **Sim4Life.lite**.
 
 <p align="center">
   <img width="90%" src="assets/dashboard/new_project.png">
