@@ -1,19 +1,34 @@
 
 # What's new in Sim4Life.lite
 
-Sim4Life.lite V8.2 is the latest version of the student edition of our online simulation platform for computational life science research, device design and optimization, as well as safety and electromagnetic compliance evaluations. This new release introduces significant improvements to enhance your simulation experience and makes Sim4Life more user-friendly and efficient.
+Sim4Life.lite V8.4 is the latest version of the student edition of our online simulation platform for computational life science research, device design and optimization, as well as safety and electromagnetic compliance evaluations. This new release introduces significant improvements to enhance your simulation experience and makes Sim4Life more user-friendly and efficient.
 
-The highlights of Sim4Life.lite V8.2:
-- Performance and Usability: Faster navigation, quicker startup, and improved video streaming for a smoother experience.
-- Improved Navigation: An intuitive new search toolbar simplifies the process of locating tools and resources, accessing them, or learning more through tutorial videos.
-- Enhanced Collaboration: Our cloud-native platform facilitates seamless project organization and sharing.
-- New Features: Resource monitoring, integrated Help, Guided Tours, an IPython-based Console for automation.
-- Growing Toolset: New Material Calculator, Multiport Simulations, and new modeling tools.
-- Computable Phantoms: Easy access to predefined postures for common scenarios (standing, sitting, driving, etc.) with customizable models for exposure and in-use simulations.
-
+The highlights of Sim4Life.lite V8.4:
+- Refreshed Interface: The streamlined menu and drag-and-drop actions make starting and organizing projects easier.
+- Simplified Neuro-Stimulation Settings: A single checkbox in the settings provides access to different tissue/electrode contact impedance models.
 
 
 # Release History
+
+## _**Sim4Life.lite**_ V8.4 
+### Release Date: 11.03.2025
+
+### **Selected new features**
+- Intuitive Project Organization
+    - New drag-and-drop functionality for managing simulations online, allowing users to effortlessly organize their workspaces and maintain an overview of multiple projects.
+    - Recovery of deleted items thanks to a new trash bin for projects, folders, and workspaces.
+- Streamlined Platform Experience and Enhanced Ecosystem: “New” menu simplifies the creation of not only Sim4Life projects, but also of complementary iSeg and JupyterLab projects.
+- Simplified Neuro-Stimulation Settings
+    - A single checkbox in the settings provides access to different tissue/electrode contact impedance models, making it easier to account for the effects of non-ideal interfaces on pulse shapes.
+    - Support for importing compressed .hoc data files, essential for users who want to modify neuron models from online sources such as ModelDB, the Human Brain Project (HBP), or the Allen Brain Institute for use in Sim4Life neuron simulations.
+- Simplified full-screen mode improves usability.
+- Front-end UI configurations are now stored in the backend.
+
+### **No longer broken**
+- Fixed issue where service startup time was unnecessarily long.
+- Fixed issue where project/study remained locked until the page was refreshed.
+- Fixed issue where heavy dynamic services would fail to start.
+
 
 ## _**Sim4Life.lite**_ V8.2 
 ### Release Date: 14.11.2024
