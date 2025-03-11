@@ -23,9 +23,8 @@ The **Dashboard** is the place where ```Projects``` and ```Tutorials``` can be a
     * ```User forum``` (https://forum.zmt.swiss)
     * A shortcut to contact the **Sim4Life.lite** support team via email (s4l-support@zmt.swiss);
   * A menu with the following entities:
-    * ```Account Settings```
-    * ```Preferences```: Access to Profile, Security, Confirmation, Tag, and Organization settings.
-    * ```Organization```: Direct access to Organization settings.
+    * ```Account Settings```: Access to Profile, Security, Confirmation, Tag, and Organization settings.
+    * ```Organizations```: Direct access to Organization settings.
     * An option to change between the dark and light themes.
     * ```About```: List of Front-end and Back-end technologies employed by the Sim4Life.lite.
     * ```License```: Information about the **Sim4Life.lite** license as well as the licenses of the underlying technologies.
@@ -47,12 +46,13 @@ The **Dashboard** is the place where ```Projects``` and ```Tutorials``` can be a
     * ```Duplicate```: Creates a copy of the simulation project.
     * ```Share…```: Opens a window where the user can share the simulation project.
     * ```Tags```: Assigns tags to help organize projects.
-    * ```Project data…```: Allows the user to download and store simulation projects including results locally. The simulation file and results are stored in the workspace.zip file.
-    * ```Delete```: Completely deletes the project and related data.
+    * ```Project files…```: Allows the user to download and store simulation projects including results locally. The simulation file and results are stored in the workspace.zip file.
+    * ```Move To…```: Moves the project to a folder.
+    * ```Delete```: Moves the project to *Recently Deleted*.
 
 (6) Starting a New Project
 
-  * To start a session of **Sim4Life.lite**, you can click the ```+ Start S4L lite``` button to create a new project. This will start the user interface of Sim4Life.lite.
+  * To start a session of **Sim4Life.lite**, you can click the ```+ NEW``` button and select **Sim4Life.lite** to create a new project. This will start the user interface of Sim4Life.lite.
 
 
 
