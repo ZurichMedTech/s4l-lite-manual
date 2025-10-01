@@ -40,9 +40,9 @@ Sharing a Project instance with other users allows collaboration on the same pip
 
 To share a Project:
 1. Access the Project's options from the Dashboard by clicking on the three dot button on the upper right hand corner of the Project's card. 
-2. Choose the ```More options``` option. A window should appear.
-3. In the popup window, there is a panel menu to the left. Click on the ```Sharing``` button (second button from the top) to switch to the Sharing tab.
-4. In the Sharing tab, click on the ```Organizations and Members``` dropdown to see the list of users you may share with. Choose one or more people/organizations to share your Project with, and then click the ```Add``` button.
+2. Choose the ```Share``` option. A window should appear. Otherwise, simply click the Project card to open the settings.
+3. In the popup window, there is a panel menu to the left. Make sure that you are on the Sharing tab.
+4. Click share, and you will get the ```Organizations and Members``` dropdown to see the list of users you may share with. Choose one or more people/organizations to share your Project with, and then click the ```Share``` button.
 5. The Project will then appear in the ```PROJECTS``` tab of the user(s) you have shared with. 
 
 There are three types of roles for projects :
@@ -61,21 +61,22 @@ There are three types of roles for projects :
     * Can delete the project
 
 ## Publishing a Project as a Tutorial
-Publishing a Project as a Tutorial will save the state of the Project at the current moment and it will appear as a Tutorial Project in the ```TUTORIALS``` tab of the Dashboard. Any changes made to the original Project after publishing as a Tutorial will not change the Tutorial. Clicking on the Tutorial Project in the ```TUTORIALS``` tab will create a copy of the contents of the Tutorial accessible in your ```PROJECTS``` tab. Any changes you make to this new Project will not affect the original Tutorial. 
+Publishing a Project as a Tutorial will save the state of the Project at the current moment and it will appear in the ```Public Projects``` tab of the Dashboard. Any changes made to the original Project after publishing as a Tutorial will not change the Tutorial. Other user's will create their own copy automatically when opening the project.
 
 To publish your Project as a Tutorial:
-1. Access the Project's options from the Dashboard by clicking on the three dot button on the upper right hand corner of the Project's card. 
-2. Choose the ```More options``` option. A window should appear.
-3. In the popup window, there is a panel menu to the left. Click on the ```Save as Tutorial``` button (bottom-most button)  to switch to the Tutorial tab.
-4. Set the access rights of the Tutorial in the popup menu. You may make the Tutorial accessible to only yourself or members of organizations. If you choose Organizations, you will be able to select from the list of organizations that you are a part of. 
+1. Click on the Project card.
+2. Switch to the *Publish* tab in the left panel as shown in the figure below.
+3. You may choose to publish the Tutorial with the data inside (for example, if you have any files saved in a JupyterLab inside the Project). To publish with data, make sure the "Publish with data" field is checked. 
+4. Click the ```Publish``` button at the top right hand corner.
+5. The Tutorial will now appear in ```Public Projects```.
 
 <p align="center">
   <img width="90%" src="assets/tutorials.png">
 </p>
 
-5. You may also choose to publish the Tutorial with the data inside (for example, if you have any files saved in a JupyterLab inside the Project). To publish with data, scroll down in the modal and make sure the "Publish with data" field is checked. To export the pipeline structure without any customizations, uncheck the box.
-6. Click the ```Publish``` button on the bottom right hand corner.
-7. The Tutorial will now appear as a Tutorial Project in your ```TUTORIALS``` tab. If you have chosen to share the Tutorial with members of an organization, others in that same organization will also see the Project in their respective ```TUTORIALS``` tabs. 
+6. You may also choose to publish the Tutorial with the data inside (for example, if you have any files saved in a JupyterLab inside the Project). To publish with data, scroll down in the modal and make sure the "Publish with data" field is checked. To export the pipeline structure without any customizations, uncheck the box.
+7. Click the ```Publish``` button on the top right hand corner.
+8. The Tutorial will now appear in ```Public Projects```.
 
 There are three types of roles for projects :
 1. **Viewer**
@@ -90,3 +91,4 @@ There are three types of roles for projects :
     * Can edit the tutorial
     * Can share the tutorial with other members
     * Can delete the tutorial
+
