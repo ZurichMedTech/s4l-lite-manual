@@ -16,12 +16,16 @@ The **Dashboard** is the place where ```Projects``` and ```Tutorials``` can be a
 (2) Dashboard Buttons
 
   * A notification bell that shows a message when new projects are shared with a user.
-  * A help button that includes:
-    * ```Quick Start```: A short Quick Start guide.
-    * ```Guided Tours```: A short Quick Start guide.
-    * ```Dashboard Manual```
-    * ```User forum``` (https://forum.zmt.swiss)
-    * A shortcut to contact the **Sim4Life.lite** support team via email (s4l-support@zmt.swiss);
+  * A question mark button that opens Help & Support dialogue box which includes:
+    * ```Ask a Question```: Redirect users to Conversations tab, allowing direct interactions with support members.
+    * ```Book a Call```: Allows users to book a call directly with a support member.
+    * ```Introduction```
+    * ```Explore Tutorials```: Brings the user to the Tutorial tab which contains prebuilt tutorials using different physics solvers.
+    * ```Dashboard Manual```: Technical reference for using the dashboard.
+    * ```Sim4Life Lite Manual```: Full documentation for Sim4Life software.
+    * ```Sim4Life Lite API Reference```: Details for developers using the Sim4Life API.
+    * ```Forum```: Common questions and answers.
+    * ```Conversations```: Clicking on a conversation in the Conversations panel opens the full message thread, allowing you to view past interactions, continue the chat with support, and book a call for direct assistance.      
   * A menu with the following entities:
     * ```Account Settings```: Access to Profile, Security, Confirmation, Tag, and Organization settings.
     * ```Organizations```: Direct access to Organization settings.
@@ -29,7 +33,17 @@ The **Dashboard** is the place where ```Projects``` and ```Tutorials``` can be a
     * ```About```: List of Front-end and Back-end technologies employed by the Sim4Life.lite.
     * ```License```: Information about the **Sim4Life.lite** license as well as the licenses of the underlying technologies.
     * ```Logout```: To log out from the **Sim4Life.lite**.
-
+      
+      <p align="center">
+          <img width="50%" src="assets/dashboard/help_from_dashboard.png">
+      </p>
+      <p style="text-align: center;"> Help and Support Dialogue Box.</p>
+      
+      <p align="center">
+          <img width="50%" src="assets/dashboard/conversations_from_dashboard.png">
+      </p>
+       <p style="text-align: center;"> Conversation Dialogue Box.</p>
+       
 (3) Study Filter and Search
 
  * The user can filter and search the projects and tutorials by Tags. You can also search by name and keywords.
@@ -53,6 +67,7 @@ The **Dashboard** is the place where ```Projects``` and ```Tutorials``` can be a
 (6) Starting a New Project
 
   * To start a session of **Sim4Life.lite**, you can click the ```+ NEW``` button and select **Sim4Life.lite** to create a new project. This will start the user interface of Sim4Life.lite.
+
 
 
 
