@@ -3,7 +3,7 @@
 To generate a new simulation project, click <code> + New </code> icon on the ```Dashboard```, and select **Sim4Life.lite**.
 
 <p align="center">
-  <img width="90%" src="assets/dashboard/new_project.png">
+  <img width="50%" src="assets/dashboard/new_project.png">
 </p>
 
 ## Managing Projects
@@ -17,3 +17,4 @@ The **Sim4Life.lite** version is recorded in each project card once it is genera
 Please refer to the section [Sharing and Publishing Projects](/docs/overview/dashboard/share.md) to learn how to share the simulation projects with other users. 
 
 Once a project is opened in **Sim4Life.lite** platform, it is always possible to return to the Dashboard by clicking the ```Dashboard``` button on the top left corner. The current state of the project will be automatically saved.
+
