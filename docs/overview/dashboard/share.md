@@ -71,7 +71,7 @@ To publish your Project as a Tutorial:
 5. The Tutorial will now appear in ```Public Projects```.
 
 <p align="center">
-  <img width="90%" src="assets/tutorials.png">
+  <img width="90%" src="assets/publishtutorial.png">
 </p>
 
 6. You may also choose to publish the Tutorial with the data inside (for example, if you have any files saved in a JupyterLab inside the Project). To publish with data, scroll down in the modal and make sure the "Publish with data" field is checked. To export the pipeline structure without any customizations, uncheck the box.
@@ -91,4 +91,5 @@ There are three types of roles for projects :
     * Can edit the tutorial
     * Can share the tutorial with other members
     * Can delete the tutorial
+
 
